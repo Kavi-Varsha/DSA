@@ -20,8 +20,8 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 - ✅ Arrays
 - ✅ Prefix Sum
 - ✅ Sliding Window
-- ⏳ HashMap
-- ⏳ Two Pointers
+- ✅ HashMap
+- ✅ Two Pointers
 - ⏳ Strings
 - ⏳ Stack & Queue
 - ⏳ Recursion & Backtracking (Coming Soon)
@@ -49,6 +49,7 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 ## 📚 Notes
 
 You’ll also find some `.txt` or `.md` files where I note down key concepts or patterns I learn during this journey.
+[Day 1 to Day 4: Arrays, Prefix Sum, Sliding Window, Two Pointers](./Day1_to_Day4_Summary.md)
 
 ---
 
