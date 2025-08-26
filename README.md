@@ -1,6 +1,6 @@
-# 🧠 DSA Practice – C++ | LeetCode by Topic
+# 🧠 DSA Practice – C++/Java | LeetCode by Topic
 
-Welcome! This repository contains my DSA problem-solving journey using C++, focused on mastering algorithms and data structures for placement preparation.
+Welcome! This repository contains my DSA problem-solving journey using C++/Java, focused on mastering algorithms and data structures for placement preparation.
 
 I'm currently in my 3rd year of Computer Science Engineering and have started solving LeetCode problems seriously from July 2025. This repo helps me stay consistent and organized.
 
@@ -8,7 +8,7 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 
 ## 📌 What You'll Find Here
 
-- ✅ LeetCode problems solved in C++
+- ✅ LeetCode problems solved in C++/Java
 - ✅ Topic-wise folder structure (Arrays, Prefix Sum, HashMap, etc.)
 - ✅ Clear code with comments and links to problems
 - ✅ Regular updates as I progress
@@ -39,7 +39,7 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 
 ## 🛠️ Tools Used
 
-- Language: `C++ (STL)`
+- Language: `C++ (STL)`,`Java`
 - Platform: `LeetCode`, sometimes `GFG`
 - IDE: `VS Code`
 - OS: `Windows`
