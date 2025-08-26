@@ -34,3 +34,23 @@ public:
         return maxLength;
     }
 };
+
+//Java approach
+class Solution {
+    public int longestOnes(int[] nums, int k) {
+        int l=0,r=0,flip=0,length=Integer.MIN_VALUE;
+        for(r=0;r<nums.length;r++){
+            if(nums[r]==0){
+                flip++;
+            }
+            while(flip>k){
+                if(nums[l]==0){
+                    flip--;
+                }
+                l++;
+            }
+            length=Math.max(length,r-l+1);
+        }
+        return length;
+    }
+}
