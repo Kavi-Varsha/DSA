@@ -49,7 +49,7 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 ## 📚 Notes
 
 You’ll also find some `.txt` or `.md` files where I note down key concepts or patterns I learn during this journey.
-[Day 1 to Day 4: Arrays, Prefix Sum, Sliding Window, Two Pointers](./DSA_Progress/Week_1.md)
+[Arrays, Prefix Sum, Sliding Window, Two Pointers](./DSA_Progress)
 
 ---
 
