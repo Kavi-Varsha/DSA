@@ -34,10 +34,9 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 ## 📆 Weekly Progress
 
 You can track my week-wise learning and struggles here:
-
-- [Week 1 – Arrays & Basics](./DSA_Progress/Week_1/README.md)  
-- [Week 2 – Prefix Sum & Sliding Window](./DSA_Progress/Week_2/README.md)  
-- [Week 3 – Hashing (unordered_map & unordered_set)](./DSA_Progress/Week_3/README.md)  
+- [Week 1](./DSA_Progress/Week_1.md)
+- [Week 2](./DSA_Progress/Week_2.md)
+- [Week 3](./DSA_Progress/Week_3.md)
 - ⏳ Week 4 (Coming Soon)
 
 ---
