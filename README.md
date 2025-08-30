@@ -18,12 +18,13 @@ I'm currently in my 3rd year of Computer Science Engineering and have started so
 
 ## 🧩 Topics Covered So Far
 
-- ✅ [Arrays](./DSA/Arrays)
-- ✅ [Prefix Sum](./DSA/Prefix_Sum)
-- ✅ [Sliding Window](./DSA/Sliding_Window)
-- ✅ [HashMap](./DSA/Unordered_Map)
-- ✅ [HashSet](./DSA/Unordered_Set)
-- ✅ [Two Pointers](./DSA/Two_Pointers)
+- ✅ [Arrays](./Arrays)
+- ✅ [Prefix Sum](./Prefix_sum)
+- ✅ [Sliding Window](./Sliding_Window)
+- ✅ [Unordered Map](./Unordered_map)
+- ✅ [Unordered Set](./Unordered_set)
+- ✅ [Two Pointers](./Two_Pointers)
+- ⏳ [Dynamic Programming](./Dynamic%20Programming)
 - ⏳ Strings
 - ⏳ Stack & Queue
 - ⏳ Recursion & Backtracking (Coming Soon)
