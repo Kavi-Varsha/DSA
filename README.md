@@ -37,7 +37,8 @@ You can track my week-wise learning and struggles here:
 - [Week 1](./DSA_Progress/Week_1.md)
 - [Week 2](./DSA_Progress/Week_2.md)
 - [Week 3](./DSA_Progress/Week_3.md)
-- ⏳ Week 4 (Coming Soon)
+- [Week 4](./DSA_Progress/Week_4.md)
+- [Week 5](./DSA_Progress/Week_5.md)
 
 ---
 
